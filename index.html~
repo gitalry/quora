@@ -8,22 +8,33 @@
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,400,700' rel='stylesheet' type='text/css'>
 
+   <p align="center"> <b font="red"><h1 align="center"> Quora</h1></b><br>
     <br>
-    <br>
-    <br>
+   The best answer to any question <br></p>
    
 
     <link rel="stylesheet" href="css/reset.css">
-    <!-- CSS reset -->
-    <link rel="stylesheet" href="css/style.css">
-    <!-- Resource style -->
-    <script src="js/modernizr.js"></script>
-    <!-- Modernizr -->
+    
 
-    <title>"The Polish Website"</title>
+    <title>Quora</title>
 </head>
 
-<body>
+<body><div id="logplace" border="1">
+<br><a href="#google">Continue with Google</a>
+<a href="#facebook">Continue with Facebook</a>
+<a href="#mail">Continue with Email</a>By signing up you indicate that you have read and agree to the <a href="#terms">Terms of service</a> and <a href="#privacy">Privacy Policy</a>.
+<br>
+<B>LOGIN</B><BR/>
+<input name="name1" size="10" type="text"><BR>
+ <input name="name" size="10" type="checkbox">Remember Me<br><br>
+<input name="password" size="10" type="password">
+<br>
+<input value="Login" type="Login">
+
+
+
+</div>
+
     <section>
         <nav>
             <a href="#about">About</a>
@@ -33,7 +44,7 @@
             <a href="#Contact">Contact</a>
         </nav>
     </section>
-ript>
+
         <!-- Resource jQuery -->
 </body>
 
