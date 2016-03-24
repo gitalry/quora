@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="en" class="no-js">
+
+<head>
+
+    
+
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,400,700' rel='stylesheet' type='text/css'>
+
+    <br>
+    <br>
+    <br>
+   
+
+    <link rel="stylesheet" href="css/reset.css">
+    <!-- CSS reset -->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Resource style -->
+    <script src="js/modernizr.js"></script>
+    <!-- Modernizr -->
+
+    <title>"The Polish Website"</title>
+</head>
+
+<body>
+    <section>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#Career">Career</a>
+            <a href="#Sitemap">Sitemap</a>
+            <a href="#Terms">Terms</a>
+            <a href="#Contact">Contact</a>
+        </nav>
+    </section>
+    <section class="cd-title">
+        <h1 align="center" color="red"><b>Quora</b> </h1><br><br>
+<h1 align="center">The best answer to any question</h1>
+    
+                <b>Burger</b>
+			</span>
+		</h1>
+    </section>
+    <section id="about">
+
+        <div class="container about">
+            <h1>Lorem Ipsum</h1>
+            <p>Lorem ipsum dolor sit amet, cum id propriae pertinacia, cu wisi quando convenire pri. Sea oportere volutpat tincidunt et, ea cum postea meliore, ex sea stet facete dolorem. Ne eleifend intellegat vel, at mei zril meliore maluisset. Assum repudiandae signiferumque eu eam, equidem accusam verterem vix an.</p>
+        </div>
+
+    </section>
+
+
+    <section id="menu">
+        <table class="col-1-3 container">
+            <div class="tc">
+                <caption>Menu</caption>
+                <tr>
+                    <th scope="col" colspan="2" class="tt">Availability</th>
+                </tr>
+                <tr>
+                    <td>Chicken Roll</td>
+                    <td>$30.02</td>
+                </tr>
+                <tr>
+                    <td>Egg Roll</td>
+                    <td>$52.94</td>
+                </tr>
+                <tr>
+                    <td>Veg. Roll</td>
+                    <td>$22.23</td>
+                </tr>
+                <tr>
+                    <td>Paneer Tikka Roll</td>
+                    <td>$30.17</td>
+                </tr>
+            </div>
+            <!-- Close tc-->
+        </table>
+        <!--
+            -->
+        <table class="col-1-3">
+            <div class="tc">
+                <tr>
+                    <th scope="col" colspan="2" class="tt">Availability</th>
+                </tr>
+                <tr>
+                    <td>Chicken Roll</td>
+                    <td>$30.02</td>
+                </tr>
+                <tr>
+                    <td>Egg Roll</td>
+                    <td>$52.94</td>
+                </tr>
+                <tr>
+                    <td>Veg. Roll</td>
+                    <td>$22.23</td>
+                </tr>
+                <tr>
+                    <td>Paneer Tikka Roll</td>
+                    <td>$30.17</td>
+                </tr>
+            </div>
+            <!-- Close tc-->
+        </table>
+        <table class="col-1-3">
+            <div class="tc">
+                <caption>Menu</caption>
+                <tr>
+                    <th scope="col" colspan="2" class="tt">Availability</th>
+                </tr>
+                <tr>
+                    <td>Chicken Roll</td>
+                    <td>$30.02</td>
+                </tr>
+                <tr>
+                    <td>Egg Roll</td>
+                    <td>$52.94</td>
+                </tr>
+                <tr>
+                    <td>Veg. Roll</td>
+                    <td>$22.23</td>
+                </tr>
+                <tr>
+                    <td>Paneer Tikka Roll</td>
+                    <td>$30.17</td>
+                </tr>
+            </div>
+            <!-- Close tc-->
+        </table>
+    </section>
+
+
+
+    <div id="numbers">
+
+        <h1>CONTACT US</h1>
+        <br>
+
+        <p> Email : cafe@pollyanna.com</p>
+        <br/>
+
+        <p>Tel : +200 76878811</p>
+        <br>
+
+        <p>FB: facebook.com/pollyannacafe</p>
+        <br>
+
+
+    </div>
+
+    <form>
+        <fieldset>
+
+            <h2>Feedback</h2>
+
+            <br>
+            <label>Name :</label>
+            <br>
+            <input class="fw" type="text" placeholder="Your name" name="comment">
+            <br>
+
+            <label>Gender: </label>
+            <input type="radio" name="day" value="male"> Male
+            <input type="radio" name="day" value="female"> Female
+            <br>
+            <label>Mobile: <i>optional*</i></label>
+            <input class="tel" type="tel" placeholder="Your telephone" name="comment">
+            <br>
+            <label>E-mail : </label>
+            <br>
+            <input class="fw" type="email" placeholder="Your email" name="comment">
+            <br>
+
+            <label>Message: </label>
+            <br>
+            <textarea class="msg-box" rows="5" placeholder="Comment here"></textarea>
+            <br>
+            <input class="button" type="submit" name="submit" value="Send" disabled>
+        </fieldset>
+    </form>
+    </div>
+
+
+    <div id="location">
+        <h1>We are located at...</h1>
+        <br>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d376690.9511152918!2d-83.4291055546798!3d42.47245682067808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8824d2403d03be09%3A0x869b60b727b48b49!2sPolish+Village+Cafe!5e0!3m2!1sen!2ske!4v1458679472821" width="700" height="300" frameborder="3" style="border:0" allowfullscreen></iframe>
+
+        </section>
+
+        <div id="footer">
+            <nav>
+                <a href="#">About</a>
+                <a href="#menu">Menu</a>
+                <a href="#contact">Contacts</a>
+                <a href="#location">Location</a>
+            </nav>
+        </div>
+
+
+
+
+
+        <script src="js/jquery-2.1.1.js"></script>
+        <script src="js/main.js"></script>
+        <!-- Resource jQuery -->
+</body>
+
+</html>
