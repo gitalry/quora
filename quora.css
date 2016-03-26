@@ -16,10 +16,14 @@ body {
 #kati {
     padding-left: 300px;
     width: 600px;
-    height: 200px;
+    height: 220px;
     background-origin: border-box;
     object-position: center;
     border: 2px;
+}
+left {
+    width: 400px;
+    float: left;
 }
 #right {
     float: right;
