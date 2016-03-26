@@ -15,7 +15,8 @@ body {
 }
 #kati {
     width: 600px;
-    height: 300px;
+    height: 200px;
     background-origin: border-box;
     object-position: center;
+    border: 2px;
 }
