@@ -14,9 +14,13 @@ body {
     color: crimson;
 }
 #kati {
+    padding-left: 300px;
     width: 600px;
     height: 200px;
     background-origin: border-box;
     object-position: center;
     border: 2px;
+}
+#right {
+    float: right;
 }
