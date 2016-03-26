@@ -13,3 +13,9 @@ body {
 #quora {
     color: crimson;
 }
+#kati {
+    width: 600px;
+    height: 300px;
+    background-origin: border-box;
+    object-position: center;
+}
