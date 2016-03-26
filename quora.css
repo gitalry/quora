@@ -1,11 +1,11 @@
-#logplace{
-font:Times new roman;
-color:black;
-align:center;
-
-
-
-
-
-
+#logplace {
+    font: Times new roman;
+    color: black;
+    align: center;
+}
+body {
+    background-image: url(front.jpg);
+}
+#footer {
+    background-color: white;
 }
