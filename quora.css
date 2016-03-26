@@ -1,11 +1,15 @@
 #logplace {
     font: Times new roman;
     color: black;
-    align: center;
+    object-position: center;
+    outline-width: thin;
 }
 body {
     background-image: url(front.jpg);
 }
 #footer {
     background-color: white;
+}
+#quora {
+    color: crimson;
 }
