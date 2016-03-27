@@ -19,9 +19,9 @@ body {
     height: 220px;
     background-origin: border-box;
     object-position: center;
-    border: 2px;
+    border: solid #000000;
 }
-left {
+#left {
     width: 400px;
     float: left;
 }
