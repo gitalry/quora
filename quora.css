@@ -26,3 +26,9 @@ body {
 #right {
     float: right;
 }
+p a {
+    text-decoration: none;
+}
+#nav a {
+    text-decoration: none;
+}
